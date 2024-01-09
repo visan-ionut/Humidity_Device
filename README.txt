@@ -2,12 +2,11 @@
 Humidity Device
 ===============
 
-This project explores a fascinating project demonstrating
-a simulated device for humidity detection within a room.
-Conducted in the TINKERCAD online environment, the project
-incorporates essential components such as a breadboard,
-Arduino board, LEDs, resistors, a gas sensor, potentiometer,
-and an LCD 16x2.
+This project demonstrates a simulated device for humidity
+detection within a room. Conducted in the TINKERCAD online
+environment, the project incorporates essential components
+such as a breadboard, Arduino board, LEDs, resistors, a gas
+sensor, potentiometer, and an LCD 16x2.
 
 In operation, the device engages in the collection of data
 from the air using a simulated gas sensor, emulating the
